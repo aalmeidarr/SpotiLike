@@ -3,7 +3,8 @@
 **Spotilike** displays the current song you're listening to on Spotify on an OLED SH1106 screen, with a button to "like" the song.
 
 ## Demo
-![Spotilike Demo](poc.mp4)
+
+https://github.com/user-attachments/assets/4cf9f598-b3af-4fba-ac20-c705ce2315df
 
 ## Features
 - OLED SH1106 (I2C): Displays the song name and artist.
